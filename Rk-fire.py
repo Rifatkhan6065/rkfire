@@ -77,7 +77,7 @@ F = '\x1b[38;5;48m'
 Z = '\033[1;33m'
 head = {'Host': 'adsmanager.facebook.com', 'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"', 'viewport-width': '980'}
 logo = """            
-\
+
                 
                
               
